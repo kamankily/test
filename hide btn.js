@@ -2,7 +2,7 @@
 // @description  
 // @name        Hide Slots Buttons
 // @author       Tik
-// @match        torn.com/loader.php?sid=slots
+// @match        https://www.torn.com/loader.php?sid=slots
 // @grant        none
 // ==/UserScript==
 
